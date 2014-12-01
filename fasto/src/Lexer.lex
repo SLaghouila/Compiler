@@ -37,7 +37,7 @@
        | "bool"         => Parser.BOOL pos
        | "char"         => Parser.CHAR pos
        | "fun"          => Parser.FUN pos 
-       | "fn"           => Parser.FN pos
+       | "fn"           => Parser.FN pos (*der skal også være en arrow her*)
 (* specials: *)
        | "iota"         => Parser.IOTA pos
        | "replicate"    => Parser.REPLICATE pos
