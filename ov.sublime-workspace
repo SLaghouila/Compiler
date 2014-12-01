@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"And",
+				"And"
+			],
+			[
+				"Not",
+				"Not"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"es",
+				"else"
+			],
+			[
+				"ran",
+				"ran"
+			],
+			[
+				"num",
+				"numberarray"
+			],
+			[
+				"t",
+				"trackhash"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"tra",
+				"trackhash"
+			],
+			[
+				"track",
+				"trackhash"
+			],
+			[
+				"block",
+				"blocksize"
+			],
+			[
+				"blo",
+				"blocksize"
+			],
+			[
+				"ka",
+				"kascade_data"
+			],
+			[
+				"test",
+				"testport"
+			],
+			[
+				"tes",
+				"testip"
+			],
+			[
+				"peer",
+				"peerhost"
+			],
+			[
+				"pee",
+				"peerarray"
+			],
+			[
+				"sub",
+				"sub	Function"
+			],
+			[
+				"for",
+				"for	Loop"
+			],
+			[
+				"fore",
+				"foreach"
+			],
+			[
+				"dec",
+				"decvalue"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"de",
+				"decoded_body"
+			],
+			[
+				"res",
+				"res_body"
+			],
+			[
+				"my",
+				"myLength"
+			],
+			[
+				"hex",
+				"hex_str"
+			],
+			[
+				"x",
+				"x_num"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"bit",
+				"bit_length"
+			],
+			[
+				"mod",
+				"mod_left"
+			],
+			[
+				"blockhash",
+				"blockhash"
+			],
+			[
+				"blos",
+				"block_hashes"
+			],
+			[
+				"trac",
+				"tracker"
+			],
+			[
+				"tracker",
+				"tracker_url"
+			],
+			[
+				"abs",
+				"abs_path"
+			],
+			[
+				"port",
+				"port_number"
+			],
+			[
+				"Con",
+				"Connection"
+			],
+			[
+				"Content",
+				"Content-Length"
+			],
+			[
+				"Conte",
+				"Content-Type"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"ge",
+				"given_host"
+			],
+			[
+				"por",
+				"port_number"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"time",
+				"timeData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/albt/Dropbox/DIKU/OV/FEIEF/src/Parser.grm",
+		"/home/albt/Dropbox/DIKU/OV/FEIEF/src/Lexer.lex",
+		"/home/albt/Dropbox/DIKU/OV/assign2/report.txt",
+		"/home/albt/Dropbox/DIKU/OV/FEIEF/src/FEIEF.sml",
+		"/home/albt/Dropbox/DIKU/OV/gruppe/fasto/src/Make.sml",
+		"/home/albt/Dropbox/DIKU/OV/FEIEF/src/Parser.sml",
+		"/home/albt/Dropbox/DIKU/OV/fasto/tests/Assign1.fo",
+		"/home/albt/Dropbox/DIKU/OV/assign1/report.txt",
+		"/home/albt/Dropbox/DIKU/OV/FEIEF/src/lexer.lex",
+		"/home/albt/Dropbox/DIKU/OV/FEIEF/src/parser.grm",
+		"/home/albt/Dropbox/DIKU/OV/fasto/tests/fib.fo",
+		"/home/albt/Dropbox/DIKU/OV/fasto/tests/Assign1.out",
+		"/home/albt/Dropbox/DIKU/OV/fasto/tests/Assign1.in",
+		"/home/albt/Dropbox/DIKU/OV/fasto/src/Lexer.lex",
+		"/home/albt/.config/sublime-text-2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/home/albt/Downloads/index.php",
+		"/var/www/phpinfo.php",
+		"/var/www/index.html",
+		"/var/www/main.css",
+		"/home/albt/.cache/.fr-sYPNxP/Lexer.sml",
+		"/var/www/main.js",
+		"/home/albt/Dropbox/DIKU/IP/IndividuelAfleveringer/1I-Alberte-Thegler.sml",
+		"/home/albt/Dropbox/DIKU/IP/IndividuelAfleveringer/2I-Alberte-Thegler.sml",
+		"/var/www/js/_main.js",
+		"/var/www/js/skrollr.js",
+		"/home/albt/Downloads/parallex-scroll/parallax/index.html",
+		"/home/albt/Dropbox/DIKU/Datanet/opg3/assignment3.pl",
+		"/home/albt/Dropbox/DIKU/Datanet/opg2/opg2.pl",
+		"/home/albt/Dropbox/DIKU/Datanet/opg4/opg4.pl",
+		"/var/www/people.php",
+		"/usr/local/share/perl/5.14.2/Mojo/Server/Daemon.pm",
+		"/home/albt/files/output2",
+		"/home/albt/Dropbox/DIKU/Datanet/opg2/forkingserver.pl",
+		"/home/albt/Downloads/pressroom.php",
+		"/home/albt/Downloads/logs",
+		"/home/albt/files/output.txt",
+		"/home/albt/Downloads/datanet2.pl",
+		"/home/albt/files/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"callfun",
+			"NOT",
+			"check",
+			"checkBinOp",
+			" or ",
+			"evalEq",
+			"say"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/albt/Downloads/datanet2.pl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true
+}
